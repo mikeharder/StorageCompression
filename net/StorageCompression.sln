@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29931.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageCompressionV11", "StorageCompressionV11\StorageCompressionV11.csproj", "{07B265EF-CB05-4E76-AB15-627E28D01B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageCompression", "StorageCompression\StorageCompression.csproj", "{38FDDE5C-D8E8-4265-8BEA-4B6EE0B639A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B265EF-CB05-4E76-AB15-627E28D01B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B265EF-CB05-4E76-AB15-627E28D01B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B265EF-CB05-4E76-AB15-627E28D01B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B265EF-CB05-4E76-AB15-627E28D01B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38FDDE5C-D8E8-4265-8BEA-4B6EE0B639A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FDDE5C-D8E8-4265-8BEA-4B6EE0B639A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FDDE5C-D8E8-4265-8BEA-4B6EE0B639A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FDDE5C-D8E8-4265-8BEA-4B6EE0B639A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F21CC53-049C-42F9-AD53-A1FBEC7E4366}
+	EndGlobalSection
+EndGlobal
